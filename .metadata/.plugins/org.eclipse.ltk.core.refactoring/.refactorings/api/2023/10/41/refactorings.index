@@ -1,0 +1,17 @@
+1696875215310	Delete element
+1696877551487	Delete element
+1696877651683	Delete element
+1696880887682	Move 'V1__create-table-medicos.sql' to 'migration'
+1696881063451	Move 'V2__alter-table-medicos-add-column-telefone.sql' to 'migration'
+1696881185152	Delete element
+1696881458012	Delete element
+1696881600772	Delete element
+1696881646185	Move 'V1__create-table.sql' to 'migration'
+1696881725022	Delete element
+1696881870624	Delete element
+1696882074082	Rename resource 'V1__create-table-medicos.sql'
+1696882088235	Rename resource 'V2__create-table-medicos.sql'
+1696882165245	Rename resource 'V3__create-table-medicos.sql'
+1696887510802	Copy file
+1696887520585	Rename resource 'V3__alter-table-medicos-add-column-ativo.sql'
+1696888312597	Copy file

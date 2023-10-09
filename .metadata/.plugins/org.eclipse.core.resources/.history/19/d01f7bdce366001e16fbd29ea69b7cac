@@ -1,0 +1,5 @@
+package med.voll.api.medico;
+
+public record DadosListagemMedico(String Nome, String email, String crm, Especialidade especialidade) {
+	
+}
