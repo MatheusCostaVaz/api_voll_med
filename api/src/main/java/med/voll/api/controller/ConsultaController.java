@@ -25,7 +25,6 @@ public class ConsultaController {
 
     @PostMapping
     @Transactional
-    @SecurityRequirement(name = "bearer-key")
     public ResponseEntity agendar(@RequestBody @Valid DadosAgendamentoConsulta dados) {
         var dto = agenda.agendar(dados);
         return ResponseEntity.ok(dto);
